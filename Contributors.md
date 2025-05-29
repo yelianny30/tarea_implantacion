@@ -46,7 +46,6 @@ cesaloz
 - [ Roger Romero ](https://github.com/royert)
 - [rapanuti](https://github.com/rapanuti)
 - [yelianny30](https://github.com/yelianny30)
-- [Shairacc](https://github.com/Shairacc)
-- 
+- [Shairacc](https://github.com/Shairacc) 
 - [yelianny30](https://github.com/yelianny30)
 main
